@@ -13,7 +13,7 @@ python -m venv venv # on windows
 
 ```bash
 source venv/bin/activate # linux and mac
-Scripts/bin/activate # windows
+.\venv\Scripts\activate # windows
 . venv/bin/activate.fish # fish shell
 ```
 
